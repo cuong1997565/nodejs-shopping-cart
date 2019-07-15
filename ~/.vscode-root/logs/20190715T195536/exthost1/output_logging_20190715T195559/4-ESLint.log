@@ -1,0 +1,35 @@
+[Info  - 7:56:00 PM] ESLint server stopped.
+[Info  - 7:56:01 PM] ESLint server running in node v10.2.0
+[Info  - 7:56:01 PM] ESLint server is running.
+[Info  - 7:56:02 PM] 
+Failed to load the ESLint library for the document /var/www/nodejs/shopping-cart/app.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder shopping-cart
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder shopping-cart by executing the 'Disable ESLint' command.
+[Info  - 7:59:51 PM] 
+Failed to load the ESLint library for the document /var/www/nodejs/shopping-cart/app.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder shopping-cart
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder shopping-cart by executing the 'Disable ESLint' command.
+[Info  - 8:56:28 PM] 
+Failed to load the ESLint library for the document /var/www/nodejs/shopping-cart/models/product.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder shopping-cart
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder shopping-cart by executing the 'Disable ESLint' command.
+[Info  - 9:01:38 PM] 
+Failed to load the ESLint library for the document /var/www/nodejs/shopping-cart/seed/productSeeder.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder shopping-cart
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder shopping-cart by executing the 'Disable ESLint' command.

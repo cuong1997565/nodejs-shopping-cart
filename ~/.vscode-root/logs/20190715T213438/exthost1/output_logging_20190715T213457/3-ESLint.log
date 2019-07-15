@@ -1,0 +1,19 @@
+[Info  - 9:34:59 PM] ESLint server stopped.
+[Info  - 9:34:59 PM] ESLint server running in node v10.2.0
+[Info  - 9:34:59 PM] ESLint server is running.
+[Info  - 9:35:01 PM] 
+Failed to load the ESLint library for the document /var/www/nodejs/shopping-cart/app.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder shopping-cart
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder shopping-cart by executing the 'Disable ESLint' command.
+[Info  - 9:35:01 PM] 
+Failed to load the ESLint library for the document /var/www/nodejs/shopping-cart/seed/productSeeder.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder shopping-cart
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder shopping-cart by executing the 'Disable ESLint' command.
